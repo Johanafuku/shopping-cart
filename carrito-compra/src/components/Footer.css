@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    left: 16px;
+    bottom: 16px;
+    text-align: left;
+    background: rgba(133, 131, 131, 0.7);
+    padding: 10px 8px;
+    border-radius: 32px;
+    opacity: .90;
+    backdrop-filter: blur(8px);
+}
+
+.footer h4 {
+    margin: 0;
+    display: flex;
+}
